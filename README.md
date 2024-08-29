@@ -70,10 +70,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ### Image Screenshot
 
-Add New Post
+Add New Task
 
-![Add New Post](img/index.png "Add New Post")
+![Add New Post](img/add.png "Add New Task")
 
-Edit Post
+List Tasks
 
-![Edit Post](img/edit.png "Edit Post")
+![List Tasks](img/list.png "List Tasks")
+
+Edit Task
+
+![Edit Task](img/update.png "Edit Task")
